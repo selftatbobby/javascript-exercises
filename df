@@ -1,0 +1,245 @@
+[33mcommit 5d07f99459fb25367546bac6d5c2d4bfac87597e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Bobby Tat <messaroundacc1@hotmail.com>
+Date:   Thu Oct 28 14:00:58 2021 -0700
+
+    completed exercise, looked at solution. each test passed individually and only when others are skipped.
+
+[33mcommit d75b5a5ea897ac879471522dc05810992bd581c6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Bobby Tat <messaroundacc1@hotmail.com>
+Date:   Thu Oct 28 12:06:01 2021 -0700
+
+    install npm. test passed.
+
+[33mcommit 6b0e0e55e36e7cb1f2deb499e16389c6ccf778f3[m
+Merge: 2197f7b e4f9675
+Author: Tatiana <hello@tatianacodes.com>
+Date:   Wed Sep 22 10:12:27 2021 -0700
+
+    Merge pull request #186 from mohammedsobhi/patch-1
+    
+    fix 'says hello world' in README.md
+
+[33mcommit e4f9675628fa8c6a0189213faf96043c5140b684[m
+Author: Mohammed Sobhi <63759344+mohammedsobhi@users.noreply.github.com>
+Date:   Wed Sep 22 19:02:34 2021 +0200
+
+    fix 'says hello world' in README.md
+    
+    change 'says hello world'  to   'says "Hello, World!" ' to be identical to the code in the (helloWorld.spec.js) file.
+
+[33mcommit 2197f7b1b5494d6b6986506bd8239ab7ce00162f[m
+Merge: 0c5601e 74ab0b7
+Author: Briggs Elsperger <briggse@protonmail.com>
+Date:   Sat Sep 11 16:23:39 2021 -0600
+
+    Merge pull request #183 from TheOdinProject/add-comments
+    
+    add clarifiying comment about not removing code
+
+[33mcommit 74ab0b7cc6e67ac13c8f1af337f59595633aafa9[m
+Author: Briggs Elsperger <briggse@protonmail.com>
+Date:   Sat Sep 11 16:18:19 2021 -0600
+
+    add clarifiying comment about not removing code
+
+[33mcommit 0c5601ebd4cc568df2181a702a72019aaaaf117a[m
+Merge: 137636a cb083f5
+Author: Tatiana <hello@tatianacodes.com>
+Date:   Tue Aug 31 22:35:50 2021 -0700
+
+    Merge pull request #181 from vishant-nambiar/fix/typo-in-caesar
+    
+    Fixed typo in caesar cipher excersize
+
+[33mcommit cb083f5511ffe90343203bc483d5a94c2fcaa10c[m
+Author: Vishant Nambiar <vishantnambiar@gmail.com>
+Date:   Sun Aug 29 19:43:34 2021 +0530
+
+    replaced semicolon with single quote in caesar
+
+[33mcommit 137636a42524b9a17e6f2620c6ce6228ed3967bb[m
+Merge: 7ec7672 6274682
+Author: Tatiana <hello@tatianacodes.com>
+Date:   Fri Aug 13 08:59:21 2021 -0700
+
+    Merge pull request #176 from msespos/edit-repeatstring-readme
+    
+    Edit repeatstring readme
+
+[33mcommit 6274682cb51ec000072d7e6a00b095261a3cbc84[m
+Author: Mike Esposito <mikeesposito6852@gmail.com>
+Date:   Fri Aug 13 08:51:38 2021 -0700
+
+    Merge two bullet points in repeatString
+
+[33mcommit f0456531e429528830fac77eac452b5af554ae65[m
+Author: Mike Esposito <mikeesposito6852@gmail.com>
+Date:   Fri Aug 13 08:46:05 2021 -0700
+
+    Add paragraph to repeatString describing arguments
+
+[33mcommit 7ec76724d2998721b3068c2338f783188450f648[m
+Merge: 4cdc0d8 702d983
+Author: Tatiana <hello@tatianacodes.com>
+Date:   Sat Aug 7 22:17:18 2021 -0700
+
+    Merge pull request #171 from davidnth/patch-1
+    
+    Update README.md
+
+[33mcommit 702d983059d9317749741a231abdc35a45267c61[m
+Author: davidnth <63354482+davidnth@users.noreply.github.com>
+Date:   Sun Aug 8 15:14:12 2021 +1000
+
+    Update README.md
+    
+    Co-authored-by: Tatiana <hello@tatianacodes.com>
+
+[33mcommit 79e57ddceca16915f87f1be24beac9736cecb546[m
+Author: davidnth <63354482+davidnth@users.noreply.github.com>
+Date:   Sun Aug 8 14:59:21 2021 +1000
+
+    Update README.md
+    
+    An explanation of debugging in visual studio code.
+
+[33mcommit 4cdc0d854314f68105492e3af7e8a86f1698b264[m
+Merge: ebdc86a 3236ae1
+Author: Tatiana <hello@tatianacodes.com>
+Date:   Sat Aug 7 11:28:07 2021 -0700
+
+    Merge pull request #170 from remtaine/main
+    
+    Order exercise folders
+
+[33mcommit 3236ae156ccc536c34435b134e6232d1f930bc3c[m
+Author: Benjo Kho <benjokho@gmail.com>
+Date:   Sat Aug 7 14:54:14 2021 +0800
+
+    Revert edits
+
+[33mcommit 61f38bf60cedaf210ddd067c624a086e0f2c7a71[m
+Author: Benjo Kho <benjokho@gmail.com>
+Date:   Sat Aug 7 14:52:11 2021 +0800
+
+    Rename folders with numbers and underscores
+
+[33mcommit 55cfb173d8da273146a5c598cb8ea3e9760831fa[m
+Author: Benjo Kho <benjokho@gmail.com>
+Date:   Sat Aug 7 14:21:26 2021 +0800
+
+    Order exercise folders
+    
+    Ordered the exercise folders by placing their numbers in their folder name
+
+[33mcommit ebdc86a3495a40a95f73fa8398bf678f1301cc7c[m
+Merge: a6298b0 b0b57e6
+Author: Marvin Gay <60161078+marvingay@users.noreply.github.com>
+Date:   Sat Jul 24 12:52:37 2021 -0400
+
+    Merge pull request #133 from TheOdinProject/dependabot/npm_and_yarn/generator-exercise/y18n-3.2.2
+    
+    Bump y18n from 3.2.1 to 3.2.2 in /generator-exercise
+
+[33mcommit a6298b0c07059dc77affec357d8b5b41cd02c18b[m
+Merge: 3e77483 cdfa24b
+Author: Marvin Gay <60161078+marvingay@users.noreply.github.com>
+Date:   Sat Jul 24 12:52:10 2021 -0400
+
+    Merge pull request #139 from TheOdinProject/dependabot/npm_and_yarn/generator-exercise/merge-1.2.1
+    
+    Bump merge from 1.2.0 to 1.2.1 in /generator-exercise
+
+[33mcommit 3e774830f6acd670cd77f57e2f5cc49d48e34844[m
+Merge: d2677ee 4a220a6
+Author: Marvin Gay <60161078+marvingay@users.noreply.github.com>
+Date:   Sat Jul 24 12:51:37 2021 -0400
+
+    Merge pull request #140 from TheOdinProject/dependabot/npm_and_yarn/generator-exercise/handlebars-4.7.7
+    
+    Bump handlebars from 4.0.10 to 4.7.7 in /generator-exercise
+
+[33mcommit d2677eed86690754215ec6b842be8f5309105bc2[m
+Merge: b019348 67bb819
+Author: Marvin Gay <60161078+marvingay@users.noreply.github.com>
+Date:   Sat Jul 24 12:50:43 2021 -0400
+
+    Merge pull request #165 from TheOdinProject/dependabot/npm_and_yarn/ws-7.5.3
+    
+    Bump ws from 7.4.5 to 7.5.3
+
+[33mcommit b019348daafce6a4fca144791e47847ff83caa9d[m
+Merge: 4ec0d5f 76ccc33
+Author: Marvin Gay <60161078+marvingay@users.noreply.github.com>
+Date:   Sat Jul 24 12:50:27 2021 -0400
+
+    Merge pull request #141 from TheOdinProject/dependabot/npm_and_yarn/generator-exercise/lodash-4.17.21
+    
+    Bump lodash from 4.17.4 to 4.17.21 in /generator-exercise
+
+[33mcommit 67bb819d6383395d08f04e5e1b5a8c39334727dc[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Jul 24 16:49:59 2021 +0000
+
+    Bump ws from 7.4.5 to 7.5.3
+    
+    Bumps [ws](https://github.com/websockets/ws) from 7.4.5 to 7.5.3.
+    - [Release notes](https://github.com/websockets/ws/releases)
+    - [Commits](https://github.com/websockets/ws/compare/7.4.5...7.5.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: ws
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 4ec0d5f424ff9ef18a8119b5ff4b199a77e20f0a[m
+Merge: acca175 d3c6a5d
+Author: Marvin Gay <60161078+marvingay@users.noreply.github.com>
+Date:   Sat Jul 24 12:49:22 2021 -0400
+
+    Merge pull request #146 from TheOdinProject/dependabot/npm_and_yarn/generator-exercise/hosted-git-info-2.8.9
+    
+    Bump hosted-git-info from 2.5.0 to 2.8.9 in /generator-exercise
+
+[33mcommit acca175d24b6b7efdbee0bd888b0b90b0076f2da[m
+Author: Tatiana <hello@tatianacodes.com>
+Date:   Sat Jul 10 21:42:57 2021 -0700
+
+    Update README.md
+
+[33mcommit 80affeb2a45ef4f43a56d360b1c8a277c4264709[m
+Author: Tatiana <hello@tatianacodes.com>
+Date:   Sat Jul 10 14:53:40 2021 -0700
+
+    Update README.md
+
+[33mcommit 9c3bcb49f8c6d95158b0b193a571995160eed41e[m
+Merge: 778096f f8a2928
+Author: xandora <mfra109@gmail.com>
+Date:   Sat May 29 14:51:10 2021 +1200
+
+    Merge pull request #156 from TheOdinProject/fix/hello-world-exercise
+
+[33mcommit f8a2928882e28e824a623b5098987349fb68caf8[m
+Author: Michael Frank <mfra109@gmail.com>
+Date:   Sat May 29 07:55:43 2021 +1200
+
+    Also update the actual spec file.
+
+[33mcommit 50ce8d002c96269b05816c0ab5b59e9d5e38358b[m
+Author: Michael Frank <mfra109@gmail.com>
+Date:   Sat May 29 07:26:28 2021 +1200
+
+    helloWorld.spec.js: Fix disparity between the README example and actual test.
+
+[33mcommit 778096f544d62c52d4abb1e2c1a763f71cd776d7[m
+Merge: 6c713cf 4355657
+Author: xandora <mfra109@gmail.com>
+Date:   Wed May 26 09:55:25 2021 +1200
+
+    Merge pull request #154 from TheOdinProject/fix/clarify-jest-instructions
+    
+    Clarify Jest installation instru
